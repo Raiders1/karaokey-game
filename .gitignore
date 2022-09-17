@@ -1,129 +1,125 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+from playsound import playsound
+playsound('FILE NAME.mp3')
+import sys,time,,
 
-# C extensions
-*.so
+def music():
+    playsound('/Users/raid/Downloads/1.mp3')
+  
 
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+message ="I'll blow up into smithereens \n"
 
-# PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
-*.manifest
-*.spec
+def types(message):
+    for char in message:
+        sys.stdout.write(char)
+        time.sleep(0.04)
+        sys.stdout.flush()
+  
+types(message)
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+a="And spew my tiny symphony\n"
+def types1(a):
+    for char in a:
+        sys.stdout.write(char)
+        time.sleep(0.04)
+        sys.stdout.flush()
+        
+types1(a)
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
+b="All up and down a city street\n"
+def types2(b):
+    for char in b:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types2(b)
 
-# Translations
-*.mo
-*.pot
+c="While tryna put my mind at ease\n"
+def types3(c):
+    for char in c:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types3(c)
 
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
+d="Like finishing this melody\n"
+def types4(d):
+    for char in d:
+        sys.stdout.write(char)
+        time.sleep(0.02)
+        sys.stdout.flush()
+        
+types4(d)
 
-# Flask stuff:
-instance/
-.webassets-cache
+e="This feels like a necessity\n"
+def types5(e):
+    for char in e:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types5(e)
 
-# Scrapy stuff:
-.scrapy
+f="So this could be the death of me\n"
+def types6(f):
+    for char in f:
+        sys.stdout.write(char)
+        time.sleep(0.02)
+        sys.stdout.flush()
+        
+types6(f)
 
-# Sphinx documentation
-docs/_build/
+g="Or maybe just a better me\n"
+def types7(g):
+    for char in g:
+        sys.stdout.write(char)
+        time.sleep(0.04)
+        sys.stdout.flush()
+        
+types7(g)
 
-# PyBuilder
-target/
+h="\nNow, come in with the timpanis\n"
+def types8(h):
+    for char in h:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types8(h)
 
-# Jupyter Notebook
-.ipynb_checkpoints
+i="And take a shot of Hennessy\n"
+def types9(i):
+    for char in i:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types9(i)
 
-# IPython
-profile_default/
-ipython_config.py
+j="I know I'm not there mentally\n"
+def types10(j):
+    for char in j:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types10(j)
 
-# pyenv
-.python-version
+k="But you could be the remedy\n"
+def types12(k):
+    for char in k:
+        sys.stdout.write(char)
+        time.sleep(0.03)
+        sys.stdout.flush()
+        
+types12(k)
 
-# pipenv
-#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
-#   However, in case of collaboration, if having platform-specific dependencies or dependencies
-#   having no cross-platform support, pipenv may install dependencies that don't work, or not
-#   install all needed dependencies.
-#Pipfile.lock
-
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
+l="So let me play my violin for you!!!\n"
+def types13(l):
+    for char in l:
+        
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(0.1)
+types13(l)
